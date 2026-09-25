@@ -17,7 +17,18 @@ export function Accredited() {
       <div className="grid g3">
         <div className="card"><div className="eyebrow">Overall</div><div className="stat">{p.pct}%</div><Bar pct={p.pct} slim /></div>
         <div className="card"><div className="eyebrow">Target cycle</div><div className="stat" style={{ fontSize: 22 }}>Jan 31, 2028</div><div className="small muted">Submit by {fmtDate(TARGET_CYCLE.internalApplyBy)} · Level 2 at the Aug 2028 convention</div></div>
-        <div className="card"><div className="eyebrow">Stretch option</div><div className="stat" style={{ fontSize: 22 }}>Jan 31, 2027</div><div className="small muted">Only if you already have 25 qualifying talks since Feb 2024 (15 paid). {daysUntil(TARGET_CYCLE.stretchApplyBy)} days away.</div></div>
+        <div className="card"><div className="eyebrow">Stretch option</div><div className="stat" style={{ fontSize: 22 }}>Jan 31, 2027</div><div className="small muted">Ruled out: you’d need 15 paid talks in the next {daysUntil(TARGET_CYCLE.stretchApplyBy)} days.</div></div>
+      </div>
+
+      <div className="card">
+        <h3>Your starting point</h3>
+        <div className="grid g4 keep" style={{ marginTop: 6 }}>
+          <div><div className="stat" style={{ fontSize: 20 }}>ACB</div><div className="small muted">Education award: qualifies ✓</div></div>
+          <div><div className="stat" style={{ fontSize: 20 }}>Lapsed</div><div className="small muted">Former Beachsiders member: rejoin</div></div>
+          <div><div className="stat" style={{ fontSize: 20 }}>150+ clubs</div><div className="small muted">Visited in 4 countries</div></div>
+          <div><div className="stat" style={{ fontSize: 20 }}>2 free</div><div className="small muted">Outside talks so far · 0 paid</div></div>
+        </div>
+        <div className="small" style={{ marginTop: 12 }}>The award is done. The whole game now is <b>outside talks, especially paid ones</b>: 23+ more talks, 15 of them paid, 8 with a fee agreed in advance.</div>
       </div>
 
       <div className="card">

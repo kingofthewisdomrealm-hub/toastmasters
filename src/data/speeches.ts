@@ -23,7 +23,7 @@ export const speeches: Speech[] = [
     problem: 'Driven people hit their goals and still feel something is missing.',
     promise: 'Find the piece that makes your work and life fit together.',
     opening: 'DRAFT: a cabinet-maker moment in Puerto Rico: a cabinet that looked finished but had one missing piece.',
-    stories: ['Cabinet shop in Puerto Rico', '25 years of unpaid community service', 'Becoming a general contractor in Florida'],
+    stories: ['Cabinet shop in Puerto Rico', '25 years of unpaid community service', 'Visiting 150+ Toastmasters clubs in 4 countries', 'Becoming a general contractor in Florida'],
     framework: 'DRAFT: 3 pieces: Craft · Character · Contribution',
     interaction: 'Ask the audience to write their “missing piece” on a card',
     humor: 'Contractor punch-list humor',

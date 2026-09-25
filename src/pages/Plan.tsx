@@ -53,7 +53,6 @@ export function Roadmap() {
                     <span className="row" style={{ gap: 6 }}>
                       <Badge tone="blue">{m.phase}</Badge>
                       <Badge>{m.targets.engagements} talks · {m.targets.paid} paid · {m.targets.fee} fee</Badge>
-                      <Badge>Pathways L{m.targets.pathwaysLevel}</Badge>
                     </span>
                   </div>
                   <div className="small">{m.milestone}</div>
@@ -78,7 +77,7 @@ export function Roadmap() {
         </div>
       </div>
       <div className="card small muted">
-        After Sep 2027: Oct–Dec 2027 grow to 30 talks (18 paid, 10 with a fee) for a safety margin, finish the path, and draft the application. Submit by Jan 15, 2028. Level 1 results come in May 2028; Level 2 is at the August 2028 convention.
+        After Sep 2027: Oct–Dec 2027 grow to 30 talks (18 paid, 10 with a fee) for a safety margin and draft the application. Submit by Jan 15, 2028. Level 1 results come in May 2028; Level 2 is at the August 2028 convention.
       </div>
     </div>
   );

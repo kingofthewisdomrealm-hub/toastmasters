@@ -49,9 +49,9 @@ for (const o of opps) md += `| ${esc(o.organization)} | ${o.type} | ${esc(o.city
 writeFileSync('docs/05-speaking-opportunities.md', md);
 
 // 06 roadmap
-md = `# Deliverable 6: 12-Month Accredited Speaker Roadmap (Oct 2026 – Sep 2027)\n\nGoal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Pathways path, 5 recommendations, and 2 candidate videos by Sep 2027. Oct–Dec 2027: add a safety margin, then apply in Jan 2028.\n\n`;
+md = `# Deliverable 6: 12-Month Accredited Speaker Roadmap (Oct 2026 – Sep 2027)\n\nGoal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, 5 recommendations, and 2 candidate videos by Sep 2027. Oct–Dec 2027: add a safety margin, then apply in Jan 2028.\n\n`;
 for (const m of roadmap) {
-  md += `## ${m.label} · ${m.phase}\n\n**Milestone:** ${m.milestone}  \n**Running totals:** ${m.targets.engagements} talks · ${m.targets.paid} paid · ${m.targets.fee} with a fee · Pathways Level ${m.targets.pathwaysLevel}\n\n**Weekly objectives**\n${m.weeks.map((w, i) => `${i + 1}. ${w}`).join('\n')}\n\n**Inside Toastmasters**\n${m.toastmasters.map((x) => `- ${x}`).join('\n')}\n\n**Outside Toastmasters**\n${m.outside.map((x) => `- ${x}`).join('\n')}\n\n`;
+  md += `## ${m.label} · ${m.phase}\n\n**Milestone:** ${m.milestone}  \n**Running totals:** ${m.targets.engagements} talks · ${m.targets.paid} paid · ${m.targets.fee} with a fee\n\n**Weekly objectives**\n${m.weeks.map((w, i) => `${i + 1}. ${w}`).join('\n')}\n\n**Inside Toastmasters**\n${m.toastmasters.map((x) => `- ${x}`).join('\n')}\n\n**Outside Toastmasters**\n${m.outside.map((x) => `- ${x}`).join('\n')}\n\n`;
 }
 writeFileSync('docs/06-12-month-roadmap.md', md);
 console.log('docs built', occ.length, 'meetings');

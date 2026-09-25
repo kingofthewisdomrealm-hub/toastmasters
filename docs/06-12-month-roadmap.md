@@ -1,20 +1,20 @@
 # Deliverable 6: 12-Month Accredited Speaker Roadmap (Oct 2026 – Sep 2027)
 
-Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Pathways path, 5 recommendations, and 2 candidate videos by Sep 2027. Oct–Dec 2027: add a safety margin, then apply in Jan 2028.
+Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, 5 recommendations, and 2 candidate videos by Sep 2027. Oct–Dec 2027: add a safety margin, then apply in Jan 2028.
 
 ## Oct 2026 · A · Foundation
 
-**Milestone:** Membership confirmed, path started, speaking inventory done, first 10 organizations contacted  
-**Running totals:** 1 talks · 0 paid · 0 with a fee · Pathways Level 1
+**Milestone:** Rejoined Toastmasters, ACB confirmed on your record, speaking inventory done, first 10 organizations contacted  
+**Running totals:** 1 talks · 0 paid · 0 with a fee
 
 **Weekly objectives**
-1. Confirm membership. Join 1–2 online clubs (pick from the Clubs tab). Enroll in Presentation Mastery.
-2. Speaking inventory: list every talk, story, workshop, and area of expertise you already have. Write the Missing Piece opening.
+1. Rejoin: Beachsiders (Fridays at noon, Vero Beach) as your home club, plus 1 online club. Check that your ACB shows on your education transcript.
+2. Speaking inventory: list every talk, story, workshop, and area of expertise you already have, including the 2 outside talks you gave and the 150+ club visits. Write the Missing Piece opening.
 3. Give the Missing Piece 5-minute version at 2 clubs. Email 3 AS mentors.
 4. Make speaker one-sheet v1. Contact the top 10 local organizations (Outreach tab).
 
 **Inside Toastmasters**
-- Ice Breaker (Pathways L1) built from the Missing Piece opening
+- First speech back: the Missing Piece opening
 - Take 2 meeting roles
 - Table Topics at every meeting
 
@@ -27,7 +27,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 ## Nov 2026 · B · Repetition
 
 **Milestone:** Missing Piece v3 (7 min) tested at 3 clubs; first outside talk booked  
-**Running totals:** 2 talks · 0 paid · 0 with a fee · Pathways Level 1
+**Running totals:** 2 talks · 0 paid · 0 with a fee
 
 **Weekly objectives**
 1. Missing Piece v1 → Club A. Write down the 3 weakest moments.
@@ -36,8 +36,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 4. Stretch v3 to 20 minutes. Follow up with everyone you contacted in October.
 
 **Inside Toastmasters**
-- Finish Pathways Level 1
-- Same speech at 3 clubs
+- Same speech at 3 clubs, using your club-visiting network
 - Evaluate 2 speakers
 
 **Outside Toastmasters**
@@ -47,7 +46,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 ## Dec 2026 · C · Speech development
 
 **Milestone:** Missing Piece at 20 minutes; Money: What’s Missing? 5-minute test  
-**Running totals:** 3 talks · 0 paid · 0 with a fee · Pathways Level 2
+**Running totals:** 3 talks · 0 paid · 0 with a fee
 
 **Weekly objectives**
 1. Give the Missing Piece 20-minute talk at a community group. Record it (practice video).
@@ -56,7 +55,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 4. Plan January: pick the expertise talk (Condo Milestone & SIRS) for boards and CAI.
 
 **Inside Toastmasters**
-- Pathways Level 2 projects
+- Evaluate at an Advanced club to sharpen your judging eye
 - Test the Money opening
 - Humor experiment: 1 planned laugh per 2 minutes
 
@@ -67,18 +66,18 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 
 ## Jan 2027 · C · Speech development
 
-**Milestone:** Decide: apply now (Jan 31, 2027) or build for 2028. Condo Milestone & SIRS 20-min talk ready.  
-**Running totals:** 5 talks · 1 paid · 0 with a fee · Pathways Level 2
+**Milestone:** First paid booking. Condo Milestone & SIRS 20-min talk ready.  
+**Running totals:** 5 talks · 1 paid · 0 with a fee
 
 **Weekly objectives**
-1. STRETCH CHECK: if you already have 25 qualifying talks since Feb 2024 (15 paid), apply by Jan 31, 2027. If not, keep building.
+1. Jan 2027 is off the table (you need 15 paid talks first). Stay on the Jan 2028 plan and log your 2 earlier outside talks with full details.
 2. Build the Condo Milestone & SIRS talk (20 min) for condo boards and CAI.
 3. Set your fee sheet: local community rate, association rate, workshop rate.
 4. Pitch 5 associations and HOA groups with a paid workshop offer.
 
 **Inside Toastmasters**
 - Give the SIRS talk to a Toastmasters audience first (clarity test for non-experts)
-- Pathways Level 2 done
+- Table Topics: practice answering board-member questions on SIRS
 
 **Outside Toastmasters**
 - Fee sheet
@@ -88,7 +87,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 ## Feb 2027 · D · External validation
 
 **Milestone:** Rotary and civic circuit: 3 outside talks this month  
-**Running totals:** 8 talks · 2 paid · 1 with a fee · Pathways Level 3
+**Running totals:** 8 talks · 2 paid · 1 with a fee
 
 **Weekly objectives**
 1. Rotary talk #1 (Missing Piece). Ask for a referral to 2 other clubs.
@@ -97,7 +96,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 4. Update the speaker one-sheet with photos and testimonials.
 
 **Inside Toastmasters**
-- Pathways Level 3 + Education Series talk
+- Give the Missing Piece 20-min version at an Advanced club
 - Practice Q&A handling
 
 **Outside Toastmasters**
@@ -107,7 +106,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 ## Mar 2027 · D · External validation
 
 **Milestone:** Hurricane-season talk launched; 2 paid engagements in one month  
-**Running totals:** 11 talks · 4 paid · 2 with a fee · Pathways Level 3
+**Running totals:** 11 talks · 4 paid · 2 with a fee
 
 **Weekly objectives**
 1. Build the Hurricane Hardening / My Safe Florida Home talk. Demand peaks before June 1.
@@ -126,7 +125,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 ## Apr 2027 · D · External validation
 
 **Milestone:** 45–60 minute workshop version of the best talk  
-**Running totals:** 14 talks · 6 paid · 3 with a fee · Pathways Level 3
+**Running totals:** 14 talks · 6 paid · 3 with a fee
 
 **Weekly objectives**
 1. Turn the strongest talk into a 45–60 minute workshop with 2 audience exercises.
@@ -135,7 +134,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 4. Review: what gets the biggest audience response? Put more of it in.
 
 **Inside Toastmasters**
-- Pathways Level 3 done
+- Record a club talk and score it with the Level 1 ballot
 - Facilitate a club workshop
 
 **Outside Toastmasters**
@@ -145,7 +144,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 ## May 2027 · E · Professional speaking
 
 **Milestone:** Keynote offer packaged; 8 paid engagements total  
-**Running totals:** 16 talks · 8 paid · 5 with a fee · Pathways Level 4
+**Running totals:** 16 talks · 8 paid · 5 with a fee
 
 **Weekly objectives**
 1. Package 3 offers: keynote, workshop, and board briefing, each with a fee.
@@ -154,8 +153,8 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 4. Second recommendation form.
 
 **Inside Toastmasters**
-- Pathways Level 4 projects
-- Better Speaker Series talk
+- Test the keynote opening at 2 clubs
+- Test the workshop exercises on a club audience
 
 **Outside Toastmasters**
 - 2 paid talks
@@ -165,7 +164,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 ## Jun 2027 · E · Professional speaking
 
 **Milestone:** Candidate video #1 recorded (unedited, with an introducer)  
-**Running totals:** 18 talks · 10 paid · 6 with a fee · Pathways Level 4
+**Running totals:** 18 talks · 10 paid · 6 with a fee
 
 **Weekly objectives**
 1. Choose the paid engagement to film. Arrange the camera, audio, and the person introducing you.
@@ -175,7 +174,7 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 
 **Inside Toastmasters**
 - Rehearse the full video talk at 2 clubs before filming
-- Take General Evaluator / Toastmaster roles (L4 requirements)
+- Ask an AS mentor to watch one club run-through
 
 **Outside Toastmasters**
 - 2 paid talks
@@ -185,16 +184,15 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 ## Jul 2027 · E · Professional speaking
 
 **Milestone:** Mentor feedback applied; 11 paid, 7 with a pre-arranged fee  
-**Running totals:** 21 talks · 11 paid · 7 with a fee · Pathways Level 4
+**Running totals:** 21 talks · 11 paid · 7 with a fee
 
 **Weekly objectives**
 1. Rework the talk using the mentor’s ballot scores.
 2. 2 outside talks.
 3. Ask the best Rotary and Chamber contacts for referrals to paying organizations.
-4. Plan the Pathways Level 5 schedule.
+4. Pitch an education session to your Toastmasters District conference (free talk that leads to paid referrals).
 
 **Inside Toastmasters**
-- Pathways Level 4 done
 - Test the new opening and closing
 
 **Outside Toastmasters**
@@ -203,18 +201,18 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 
 ## Aug 2027 · E · Professional speaking
 
-**Milestone:** Pathways Level 5 underway; watch the AS Level 2 session (Paris convention, Aug 18–21)  
-**Running totals:** 23 talks · 13 paid · 8 with a fee · Pathways Level 5
+**Milestone:** Level 2 talk drafted; watch the AS Level 2 session (Paris convention, Aug 18–21)  
+**Running totals:** 23 talks · 13 paid · 8 with a fee
 
 **Weekly objectives**
-1. Level 5: “Prepare to Speak Professionally.”
+1. Build the 15–18 min Level 2 version of your best talk. The introduction must state your expertise.
 2. Watch the 2027 convention AS Level 2 coverage. Note what passing talks do.
 3. 2 paid talks.
 4. Fourth recommendation form.
 
 **Inside Toastmasters**
-- Level 5 roles: General Evaluator ×2, Toastmaster ×2, Evaluator ×2
-- Leadership Excellence Series talk
+- Give the 15–18 min version at 2 Advanced clubs
+- Ask evaluators to score it with the Level 2 ballot
 
 **Outside Toastmasters**
 - 2 paid talks
@@ -223,16 +221,16 @@ Goal: 25 qualifying talks / 15 paid / 8 with a pre-arranged fee, a finished Path
 ## Sep 2027 · F · Application prep
 
 **Milestone:** 25 engagements / 15 paid / 8 with a fee reached; candidate video #2  
-**Running totals:** 25 talks · 15 paid · 8 with a fee · Pathways Level 5
+**Running totals:** 25 talks · 15 paid · 8 with a fee
 
 **Weekly objectives**
 1. Audit the log against the Rev. 10/2022 fields. Fix any gaps now.
 2. Record video #2 at your best paid engagement.
 3. Fifth recommendation form. Ask WHQ to confirm all 5 are on file.
-4. Plan Oct–Dec: grow to 30 engagements, finish the path, draft the application.
+4. Plan Oct–Dec: grow to 30 engagements and draft the application.
 
 **Inside Toastmasters**
-- Finish Pathways Level 5 + Reflect on Your Path
+- Run the Level 2-style talk at a new club every week
 - Give the Level 2-style 15–18 min talk at an Advanced club
 
 **Outside Toastmasters**
