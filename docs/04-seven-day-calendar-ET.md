@@ -1,6 +1,6 @@
 # Deliverable 4: Seven-Day Toastmasters Calendar (Eastern Time)
 
-Week of Monday Sep 28 – Sunday Oct 4, 2026 (EDT). 81 meetings. † = the club meets on alternate weeks, so confirm this week. The live dashboard recalculates every week and handles daylight-saving changes (US ends Nov 1, Europe Oct 25, Australia started Oct 4).
+Week of Monday Sep 28 – Sunday Oct 4, 2026 (EDT). 79 meetings. † = the club meets on alternate weeks, so confirm this week. The live dashboard recalculates every week and handles daylight-saving changes (US ends Nov 1, Europe Oct 25, Australia started Oct 4).
 
 ## Monday
 
@@ -25,7 +25,6 @@ Week of Monday Sep 28 – Sunday Oct 4, 2026 (EDT). 81 meetings. † = the club 
 
 - 6:00 PM: Daytona Beach Toastmasters Club (Daytona Beach, United States) · PRACTICE
 - 7:00 PM: Speakeasy in Downtown DC (Washington, United States) · PRACTICE
-- 7:00 PM: Advanced Orators Toastmasters Club (Online, United States) · ADVANCED
 - 7:00 PM: The Monday Night Online Toastmasters (Markham, ON, Canada) · PRACTICE
 - 7:45 PM: Online Presenters Toastmasters (Online, United States) · ADVANCED
 - 9:00 PM: Portland Toastmasters (Portland, OR, United States) · PRACTICE
@@ -66,7 +65,6 @@ Week of Monday Sep 28 – Sunday Oct 4, 2026 (EDT). 81 meetings. † = the club 
 
 **Afternoon (12–5 PM)**
 
-- 12:00 PM: Florida Blue Toastmasters Club (Jacksonville, United States) · PRACTICE
 - 12:00 PM: Federal Toastmasters Club (Washington, United States) · PRACTICE
 - 2:30 PM: Downtown Speakeasy Club (Denver, United States) · PRACTICE
 - 3:00 PM: Downtown L.A. Toastmasters (Los Angeles, United States) · PRACTICE

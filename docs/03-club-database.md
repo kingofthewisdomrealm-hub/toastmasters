@@ -1,12 +1,11 @@
 # Deliverable 3: Online & Hybrid Toastmasters Club Database
 
-133 clubs · 38 countries · checked 2026-09-25. “official” = schedule read on the club’s toastmasters.org Find-a-Club page; “aggregator/district” = toastmost.org directory or a district roster. No Zoom links were invented; most clubs send the link by email. Full fields are in the CSV.
+132 clubs · 38 countries · checked 2026-09-25. “official” = schedule read on the club’s toastmasters.org Find-a-Club page; “aggregator/district” = toastmost.org directory or a district roster. No Zoom links were invented; most clubs send the link by email. Full fields are in the CSV.
 
 | Club | City, Country | Day & local time (tz) | Frequency | Format | Language | Type | Verified via |
 |---|---|---|---|---|---|---|---|
 | [Freddy's Forum Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00005173-00005173) | West Palm Beach, United States | Friday 12:00 (America/New_York) | weekly | hybrid | English | PRACTICE | official |
 | [South Florida PMI Toastmasters](https://www.toastmasters.org/Find-a-Club/07840560-south-florida-pmi-toastmasters) | Miramar, United States | Wednesday 18:30 (America/New_York) | 2nd & 4th Wednesday | hybrid | English | PROFESSIONAL | official |
-| [Florida Blue Toastmasters Club](https://www.toastmasters.org/Find-a-Club/02525706-floridabluetoastmastersclub) | Jacksonville, United States | Wednesday 12:00 (America/New_York) | weekly | hybrid | English | PRACTICE | official |
 | [Daytona Beach Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00001134-daytona-beach-toastmasters-club) | Daytona Beach, United States | Monday 18:00 (America/New_York) | weekly | hybrid | English | PRACTICE | official |
 | [Bartow Toastmasters Club](https://www.toastmasters.org/Find-a-Club/00743985-bartow-toastmasters-club) | Bartow, United States | Tuesday 18:00 (America/New_York) | 2nd & 4th Tuesday | hybrid | English | PRACTICE | official |
 | [Miami Dade Toastmasters Club](https://www.toastmasters.org/Find-a-Club/8251-miami-dade-toastmasters-club) | Miami (Brickell), United States | Wednesday 12:00 (America/New_York) | 2nd & 4th Wednesday | online | English | PRACTICE | official |
@@ -29,7 +28,7 @@
 | [ION Group Americas Toastmasters Club](https://www.toastmasters.org/find-a-club/7580325-7580325) | New York, United States | Tuesday 12:00 (America/New_York) | 2nd Tuesday (monthly) | online | English | PROFESSIONAL | official |
 | [AI Advantage Advanced Toastmasters](https://toastmost.org/online-clubs-directory/) | Online, United States | Thursday 20:00 (America/New_York) | weekly | online | English | ADVANCED | aggregator |
 | [AM Lockport Toastmasters](https://toastmost.org/online-clubs-directory/) | Lockport, NY, United States | Thursday 07:00 (America/New_York) | weekly | online | English | PRACTICE | aggregator |
-| [Advanced Orators Toastmasters Club](https://toastmost.org/online-clubs-directory/) | Online, United States | Monday 19:00 (America/New_York) | weekly | online | English | ADVANCED | aggregator |
+| [Advanced Orators Toastmasters Club](https://toastmost.org/online-clubs-directory/) | Online, United States | Monday 19:00 (America/New_York) | 2nd Monday (monthly) | online | English | ADVANCED | aggregator |
 | [Audible Talkers](https://toastmost.org/online-clubs-directory/) | Online, United States | Monday 18:00 (America/Phoenix) | 1st & 3rd Monday | online | English | PRACTICE | aggregator |
 | [Broadly Speaking Toastmasters Club](https://toastmost.org/online-clubs-directory/) | Online, United States | Saturday 09:30 (America/Chicago) | weekly | online | English | PRACTICE | aggregator |
 | [Crest Toastmasters Club #981](https://toastmost.org/online-clubs-directory/) | Online, United States | Saturday 08:30 (America/Chicago) | 1st Saturday | online | English | PRACTICE | aggregator |
