@@ -21,7 +21,7 @@ hf=PatternFill('solid',fgColor='0C6A5D'); band=PatternFill('solid',fgColor='F1F5
 hdr=['Day',('Start time' if TZ=='ET' else ('Start time (Mexico City, local)' if TZ=='MXC' else 'Start time (London, local)' if TZ=='LON' else f'Start time ({TZ}, local)'))]+([] if TZ=='ET' else (['Your time (Eastern) until Nov 1','Your time (Eastern) Nov 1 – Mar 14'] if OFF2 else ['Your time (Eastern)']))+['Club','Club #','City']+(['County'] if SHOWCOUNTY else [])+['Online attendance','How often','Notes','Contact email','Phone','Meeting place','Website','Toastmasters page','Miles from downtown','Day/time as listed','Zoom link','Zoom meeting ID','Zoom passcode','How to get in online']+(['WhatsApp chat link'] if HASWA else [])
 ws.append(hdr)
 for c in sorted(rows,key=lambda c:(c['dayIdx'] if c['dayIdx'] is not None else 9,c['start'] if c['start'] is not None else 9999)):
-    notes=[n for n,f in (('Membership may be restricted',c['restricted']),('Still forming',c['forming']),('Spanish / bilingual',c['spanish'])) if f]
+    notes=[n for n,f in (('Membership may be restricted',c['restricted']),('Still forming',c['forming']),('Spanish / bilingual',c['spanish'])) if f]+([c['langNote']] if c.get('langNote') else [])
     t=datetime.time(c['start']//60%24,c['start']%60) if c['start'] is not None else None
     et=(datetime.time((c['start']//60+OFF)%24,c['start']%60) if c['start'] is not None else None)
     etday=('' if c['start'] is None or c['dayIdx'] is None else (' (next day)' if c['start']//60+OFF>=24 else (' (day before)' if c['start']//60+OFF<0 else '')))
