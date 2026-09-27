@@ -22,19 +22,20 @@ for x in d:
     di=next((i for i,n in enumerate(DAYS) if re.search(r'\b'+n[:3]+r'(?!th)\w*',day,re.I)),None)
     if di is None: di=next((i for i,n in enumerate(ES) if re.search(n,day,re.I)),None)
     if di is None: di=next((i for i,n in enumerate(DAYS) if re.search(r'\b'+n[:3]+r'(?!th)\w*',tm,re.I)),None)
-    m=re.search(r'(\d{1,2})(?::(\d{2}))?',tm); start=None
+    m=re.search(r'(\d{1,2})(?:[:.](\d{2}))?',tm); start=None
     if m:
         h=int(m.group(1)); mi=int(m.group(2) or 0)
         after=tm[m.end():m.end()+12].lower(); allap=re.findall(r'(a\.?m|p\.?m|noon)',tm.lower())
         ap=re.match(r'\s*(a\.?m|p\.?m|noon|a\b|p\b)',after); ap=ap.group(1) if ap else (allap[0] if allap else '')
         if ap.startswith('p') or ap=='noon':
-            if h!=12: h+=12
+            if h<12: h+=12
         elif ap.startswith('a') and h==12: h=0
         elif not ap and 1<=h<=6: h+=12
         start=h*60+mi
     elif re.search(r'\bnoon\b',tm,re.I): start=720
     if tm.strip()=='0': start=None
     low=day.lower()
+    if di is None and re.search(r'tursday',low): di=3
     norm=re.sub(r'(\d)\s+(st|nd|rd|th)',r'\1\2',low)
     for w,n in (('1er','1st'),('1ro','1st'),('primer','1st'),('primero','1st'),('2do','2nd'),('segundo','2nd'),('3er','3rd'),('3ro','3rd'),('tercer','3rd'),('tercero','3rd'),('4to','4th'),('cuarto','4th'),('first','1st'),('second','2nd'),('third','3rd'),('fourth','4th'),('fifth','5th')): norm=re.sub(r'\b'+w+r'\b',n,norm)
     norm=re.sub(r'\by\b','&',norm)
@@ -56,6 +57,7 @@ for x in d:
       online=bool(x['AllowsVirtualAttendance']),email=x['Email'] or '',phone=x['Phone'] or '',website=x['Website'] or '',facebook=x['FacebookLink'] or '',
       restricted=x['Restriction']!=[] or bool(re.search(r'employee|closed|not open|private',low+' '+tm.lower())),forming=bool(x['IsProspective']),
       spanish=bool(re.search(r'español|espanol|hispan|latino|l[ií]deres|habla|bilingüe|bilingue|bilingual|spanish',x['Identification']['Name']+' '+(x['Location'] or ''),re.I)),
+      langNote=', '.join(sorted(set(l for p,l in ((r'mandarin|chinese|華|中文','Mandarin/Chinese'),(r'japanese|日本語','Japanese'),(r'\bmalay\b|bahasa','Malay'),(r'\btamil\b','Tamil'),(r'fran[cç]ais|french','French'),(r'bilingual|biling[uü]e','Bilingual')) if re.search(p,x['Identification']['Name']+' '+(x['Location'] or '')+' '+(x['Note'] or ''),re.I)))),
       miles=round(x['Distance'],1),finder=f"https://www.toastmasters.org/Find-a-Club/{num}-{num}"))
 json.dump(rows,open(f'{city.lower()}_clubs.json','w'),indent=1)
 print(len(d),len(rows))
