@@ -16,6 +16,25 @@ export const stages: Stage[] = [
 // is a starting draft for him to overwrite in the Speech Lab.
 export const speeches: Speech[] = [
   {
+    id: 'emotional-damage',
+    name: 'Emotional Damage',
+    centralIdea: 'Old damage still decides how you talk, stay, and leave. Patterns pretend to be personality.',
+    audience: 'Leaders managing teams, churches, men’s and women’s groups, personal-development groups, anyone stuck repeating the same relationship patterns',
+    problem: 'People repeat the same patterns at work and at home and call it “just who I am.”',
+    promise: 'Name your pattern, meet the younger you who learned it, and take back the wheel.',
+    opening: 'Use the opening from your foundational speech (video on emotionaldamage.fyi).',
+    stories: ['Your own story from the book', 'The “Little Me” moment'],
+    framework: 'Get the book → Find your pattern with the “Little Me” exercise → Stop letting old damage drive',
+    interaction: 'The “Little Me” exercise, done live with the audience',
+    humor: 'Humor as a way to process pain, not to avoid it (a theme from the book)',
+    closing: 'Scars stay; what changes is who is driving',
+    cta: 'Get the book (signed copy at emotionaldamage.fyi, or on Amazon)',
+    stage: 'Outline', version: 1,
+    nextExperiment: 'Run the “Little Me” exercise with a Toastmasters audience and time it. Can it fit into a 7-minute version?',
+    bestAudiences: ['Churches & ministries', 'Leadership groups', 'Men’s & women’s groups', 'Recovery-friendly community orgs', 'Podcasts'],
+    seedNote: 'Based on your published book Emotional Damage (Jan 2025, 89 pp, ISBN 979-8308361152). A book is strong proof of expertise for Accredited Speaker, and book sales at the back of the room can be part of a paid booking. Set the stage to match your real current talk.',
+  },
+  {
     id: 'missing-piece',
     name: 'The Missing Piece',
     centralIdea: 'Success without purpose leaves a hole. Service is the missing piece.',

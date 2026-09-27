@@ -23,7 +23,7 @@ const initial: AppState = {
   log: [],
   speechEdits: {},
   favorites: [],
-  activeSpeechId: 'missing-piece',
+  activeSpeechId: 'emotional-damage',
 };
 
 function load(): AppState {
