@@ -30,7 +30,7 @@ for city in sys.argv[1:]:
     rows=json.load(open(f'{city}_clubs.json')); raw={r['Identification']['Id']['DisplayFriendlyFormat']:r for r in json.load(open(f'{city}_raw.json'))['Clubs'] if isinstance(json.load(open(f'{city}_raw.json')),dict)} if False else None
     rj=json.load(open(f'{city}_raw.json')); rj=rj['Clubs'] if isinstance(rj,dict) else rj
     raw={r['Identification']['Id']['DisplayFriendlyFormat']:r for r in rj}
-    with ThreadPoolExecutor(12) as ex: res=list(ex.map(lambda c: run(c,raw.get(c['number'],{})),rows))
+    with ThreadPoolExecutor(24) as ex: res=list(ex.map(lambda c: run(c,raw.get(c['number'],{})),rows))
     for c,f in zip(rows,res): c.update(f)
     json.dump(rows,open(f'{city}_clubs.json','w'),indent=1)
     print(city, 'links',sum(bool(c['zoomLink']) for c in rows),'ids',sum(bool(c['zoomId']) for c in rows),'request',sum(bool(c['zoomHow']) and not c['zoomLink'] for c in rows))
