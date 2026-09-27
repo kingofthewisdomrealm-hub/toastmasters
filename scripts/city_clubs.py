@@ -47,7 +47,7 @@ for x in d:
       location=html.unescape(re.sub(r'<br\s*/?>',' · ',x['Location'] or '')).strip(),
       street=' '.join(filter(None,[a['Street'],a['PostalCode']])) if cty.upper()!='N/A' else '',
       online=bool(x['AllowsVirtualAttendance']),email=x['Email'] or '',phone=x['Phone'] or '',website=x['Website'] or '',facebook=x['FacebookLink'] or '',
-      restricted=x['Restriction']!=[] or bool(re.search(r'employee|closed',low+' '+tm.lower())),forming=bool(x['IsProspective']),
+      restricted=x['Restriction']!=[] or bool(re.search(r'employee|closed|not open',low+' '+tm.lower())),forming=bool(x['IsProspective']),
       spanish=bool(re.search(r'español|espanol|hispan|latino|l[ií]deres|habla|bilingüe|bilingue|bilingual|spanish',x['Identification']['Name']+' '+(x['Location'] or ''),re.I)),
       miles=round(x['Distance'],1),finder=f"https://www.toastmasters.org/Find-a-Club/{num}-{num}"))
 json.dump(rows,open(f'{city.lower()}_clubs.json','w'),indent=1)
